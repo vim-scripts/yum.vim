@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=823
+
+Provides syntax highlighting for yum.conf (Yellowdog Updater Modified) used by Fedora, ASP Linux, and others.
